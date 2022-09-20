@@ -20,6 +20,26 @@
             <dependent_value/>
             <element>state</element>
             <hint/>
+            <inactive>true</inactive>
+            <label>Open</label>
+            <language>en</language>
+            <name>x_cdltd_loaner_req_loaner_request</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-20 13:48:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>37129c7dd84691107f441487ff8bc493</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-20 13:54:12</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
             <inactive>false</inactive>
             <label>Requested</label>
             <language>en</language>
@@ -31,9 +51,9 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>76550425d88651107f441487ff8bc4db</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-09-19 18:14:05</sys_updated_on>
+            <sys_updated_on>2022-09-20 13:54:12</sys_updated_on>
             <value>13</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -51,10 +71,30 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>7a550425d88651107f441487ff8bc4de</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-09-19 18:14:05</sys_updated_on>
+            <sys_updated_on>2022-09-20 13:54:12</sys_updated_on>
             <value>14</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Work in Progress</label>
+            <language>en</language>
+            <name>x_cdltd_loaner_req_loaner_request</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-20 13:48:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b3129c7dd84691107f441487ff8bc496</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-20 13:54:12</sys_updated_on>
+            <value>2</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
@@ -71,9 +111,9 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>3e550425d88651107f441487ff8bc4e0</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-09-19 18:14:05</sys_updated_on>
+            <sys_updated_on>2022-09-20 13:54:12</sys_updated_on>
             <value>15</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -91,9 +131,9 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>fe550425d88651107f441487ff8bc4e2</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-09-19 18:14:05</sys_updated_on>
+            <sys_updated_on>2022-09-20 13:54:12</sys_updated_on>
             <value>16</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -111,9 +151,9 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>b2550425d88651107f441487ff8bc4e5</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-09-19 18:14:05</sys_updated_on>
+            <sys_updated_on>2022-09-20 13:54:12</sys_updated_on>
             <value>17</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -131,9 +171,9 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>76550425d88651107f441487ff8bc4e7</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-09-19 18:14:05</sys_updated_on>
+            <sys_updated_on>2022-09-20 13:54:12</sys_updated_on>
             <value>18</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -151,9 +191,9 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>3a550425d88651107f441487ff8bc4e9</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-09-19 18:14:05</sys_updated_on>
+            <sys_updated_on>2022-09-20 13:54:12</sys_updated_on>
             <value>3</value>
         </sys_choice>
     </sys_choice>
